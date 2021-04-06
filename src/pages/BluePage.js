@@ -1,7 +1,8 @@
 import React from 'react';
+import Blue from "../components/Blue";
 
 const BluePage = () => {
-    return <BluePage/>;
+    return <Blue/>;
 };
 
 export default BluePage;
